@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "title": "Suplir",
+      "price": 56000,
+      "imgUrl": "https://blogpictures.99.co/tanaman-hias-suplir-768x576.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tanduk Rusa",
+      "price": 30000,
+      "imgUrl": "https://blogpictures.99.co/tanaman-hias-tanduk-rusa.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Lidah Mertua",
+      "price": 45000,
+      "imgUrl": "https://blogpictures.99.co/tanaman-hias-lidah-mretua-768x511.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Kuping Gajah",
+      "price": 17600,
+      "imgUrl": "https://blogpictures.99.co/tanaman-hias-kuping-gajah.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Puring",
+      "price": 26900,
+      "imgUrl": "https://blogpictures.99.co/tanaman-hias-puring-768x514.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Keladi red Star",
+      "price": 86800,
+      "imgUrl": "https://blogpictures.99.co/tanaman-hias-Keladi-Red-Star.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Sri Rejeki (Aglaonema)",
+      "price": 69900,
+      "imgUrl": "https://blogpictures.99.co/tanaman-hias-Aglaonema.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Kadaka",
+      "price": 36990,
+      "imgUrl": "https://blogpictures.99.co/tanaman-hias-kadaka.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Spider Pan",
+      "price": 57900,
+      "imgUrl": "https://blogpictures.99.co/tanaman-hias-Spider-Plant.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Sirih Gading",
+      "price": 17990,
+      "imgUrl": "https://blogpictures.99.co/Pusat-Distributor-Grosir-Eceran-Jual-Bibit-Tanaman-Sirih-Gading-Murah-online-di-kota-kabupaten.3.jpg"
+    }
+  ]
